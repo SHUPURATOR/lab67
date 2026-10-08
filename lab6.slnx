@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab6/lab6.vcxproj" />
+  <Project Path="lab62/lab62.vcxproj" />
+  <Project Path="lab63/lab63.vcxproj" />
+  <Project Path="lab71/lab71.vcxproj" />
+  <Project Path="lab72/lab72.vcxproj" />
+  <Project Path="lab73/lab73.vcxproj" />
+</Solution>

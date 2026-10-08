@@ -1,0 +1,6 @@
+﻿  lab72.c
+C:\Users\student\source\repos\lab6\lab72\lab72.c(26,20): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\student\source\repos\lab6\lab72\lab72.c(26,20):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+  lab72.vcxproj -> C:\Users\student\source\repos\lab6\x64\Debug\lab72.exe
